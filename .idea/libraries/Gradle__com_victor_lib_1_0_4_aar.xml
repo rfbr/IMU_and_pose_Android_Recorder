@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.victor:lib:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/11ae4bf5bcafaddffdb612c13e14bb12/lib-1.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/11ae4bf5bcafaddffdb612c13e14bb12/lib-1.0.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.victor/lib/1.0.4/46bd7bfe79eb0a150197c894ce1e571ea4aab833/lib-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.victor/lib/1.0.4/5b9f8e206203619a33d67694f72b0f76846c2141/lib-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

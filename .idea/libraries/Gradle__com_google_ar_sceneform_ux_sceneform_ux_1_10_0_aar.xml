@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ar.sceneform.ux:sceneform-ux:1.10.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0a1143bc1b119f56c27aa2846c60316f/sceneform-ux-1.10.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0a1143bc1b119f56c27aa2846c60316f/sceneform-ux-1.10.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.ar.sceneform.ux/sceneform-ux/1.10.0/95b7d1ba601a8793d14a46a9dc86e9e36830a00c/sceneform-ux-1.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

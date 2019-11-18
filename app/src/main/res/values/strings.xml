@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMURecorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="gyro">Gyroscope:</string>
+    <string name="acce">Accelerometer:</string>
+    <string name="user_acce">User acceleration:</string>
+    <string name="zero">0.000</string>
+    <string name="startRecord">Start recording data</string>
+    <string name="stopRecord">Stop recording data</string>
+</resources>
